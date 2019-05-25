@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.a39500.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/title"
+        android:label=""
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Ideas"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="sensor"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignupActivity"
+            android:label="Sign Up"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="sensor"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="Idea"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name=".IdeaActivity"
+            android:label="Idea"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="sensor"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name=".EditActivity"
+            android:label="Idea"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="sensor"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" tools:ignore="ProtectedPermissions"></uses-permission>
+</manifest>

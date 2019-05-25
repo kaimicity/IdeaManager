@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE6363</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButton">#53868B</color>
+    <color name="signUp">#FFFFFF</color>
+    <color name="warn">#FF0000</color>
+    <color name="wait_kill">#D3D3D3</color>
+    <color name="index_back">#FFFACD</color>
+    <color name="date">#000000</color>
+    <color name="delete">#FF0000</color>
+    <color name="edit">#A1E1FA</color>
+    <color name="check">#EEE0E5</color>
+    <color name="linked">#C0FF3E</color>
+</resources>

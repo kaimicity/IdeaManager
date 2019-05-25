@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ideas</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_api">https://hs99.host.cs.st-andrews.ac.uk/ideas/user/</string>
+    <string name="idea_api">https://hs99.host.cs.st-andrews.ac.uk/ideas/idea/</string>
+    <string name="wx_appid">wx70827da6ae640918</string>
+    <string name="wx_key">fd9734cef97b565705b62b4faf3ad648</string>
+    <!--<string name="user_api">http://10.97.139.82:8989/user/</string>-->
+    <!--<string name="idea_api">http://10.97.139.82:8989/idea/</string>-->
+    <string name="username_hint">USERNAME</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="password_confirm_hint">CONFIRM PASSWORD</string>
+    <string name="signup_hint">SIGN UP</string>
+    <string name="login_button">LOGIN</string>
+    <string name="signup_button">SIGN UP</string>
+    <string name="con_des">Title image</string>
+    <string name="back_hint">Back</string>
+    <string name="edit_hint">Edit</string>
+    <string name="delete_hint">Delete</string>
+    <string name="logout_hint">Log out</string>
+    <string name="change_hint">Confirm Link</string>
+    <string name="topic_hint">Topic</string>
+    <string name="content_hint">Please input your idea.</string>
+    <string name="manage_hint">Manage</string>
+    <string name="cancel_hint">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="mail_con_des">Send to your friend as a mail!</string>
+    <string name="link_list_title">Linked Ideas</string>
+</resources>

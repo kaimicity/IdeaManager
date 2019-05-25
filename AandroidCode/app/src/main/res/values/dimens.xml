@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="port_margin_textinput_gori">22dp</dimen>
+    <dimen name="fab_size_normal">100dp</dimen>
+</resources>
